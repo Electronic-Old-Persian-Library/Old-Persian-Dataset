@@ -17,6 +17,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
         /Tablets/
             persepolis_tablet_001.png
             persepolis_tablet_002.png
+            
     /Susa/
         /Inscriptions/
             susa_inscription_001.png
@@ -24,15 +25,26 @@ Dear contributors, please be aware that cuneiform languages are different. For i
         /Tablets/
             susa_tablet_001.png
             susa_tablet_002.png
-
+            
     /CDLI/
         /Inscriptions/
             scdli_inscription_001.png
             cdli_inscription_002.png
         /Tablets/
             cdli_tablet_001.png
-            scdli_tablet_002.png        
+            scdli_tablet_002.png  
+            
+     /Behistun/
+        /Inscriptions/
+            behistun_inscription_001.png
+            behistun_inscription_002.png
+        /Tablets/
+            behistun_tablet_001.png
+            behistub_tablet_002.png        
 
+
+
+     
             
 ## Metadata for ImageDataset
 
