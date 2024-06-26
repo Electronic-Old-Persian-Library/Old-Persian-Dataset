@@ -26,7 +26,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
             susa_tablet_002.png
 
             
-## Metadata
+## Metadata for ImageDataset
 
 For the each directory a "location.metadata.csv" file is provided to see the information of images. 
 
