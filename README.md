@@ -24,3 +24,10 @@ Dear contributors, please be aware that cuneiform languages are different. For i
         /Tablets/
             susa_tablet_001.png
             susa_tablet_002.png
+
+            
+## Metadata
+
+For the each directory a "location.metadata.csv" file is provided to see the information of images. 
+
+
