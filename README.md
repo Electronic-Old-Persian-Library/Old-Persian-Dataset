@@ -10,38 +10,38 @@ Dear contributors, please be aware that cuneiform languages are different. For i
 
 /ImageDataset/
 
-    /Persepolis/
-        /Inscriptions/
-            persepolis_inscription_001.png
-            persepolis_inscription_002.png
-        /Tablets/
-            persepolis_tablet_001.png
-            persepolis_tablet_002.png
-            
-    /Susa/
-        /Inscriptions/
-            susa_inscription_001.png
-            susa_inscription_002.png
-        /Tablets/
-            susa_tablet_001.png
-            susa_tablet_002.png
-            
-    /CDLI/
-        /Inscriptions/
-            cdli_inscription_001.png
-            cdli_inscription_002.png
-        /Tablets/
-            cdli_tablet_001.png
-            cdli_tablet_002.png  
-            
+     /Persepolis/
+            /Inscriptions/
+                persepolis_inscription_001.png
+                persepolis_inscription_002.png
+            /Tablets/
+                persepolis_tablet_001.png
+                persepolis_tablet_002.png
+                
+      /Susa/
+            /Inscriptions/
+                susa_inscription_001.png
+                susa_inscription_002.png
+            /Tablets/
+                susa_tablet_001.png
+                susa_tablet_002.png
+                
+     /CDLI/
+            /Inscriptions/
+                cdli_inscription_001.png
+                cdli_inscription_002.png
+            /Tablets/
+                cdli_tablet_001.png
+                cdli_tablet_002.png  
+                
      /Behistun/
-        /Inscriptions/
-            behistun_inscription_001.png
-            behistun_inscription_002.png
-        /Tablets/
-            behistun_tablet_001.png
-            behistub_tablet_002.png        
-
+            /Inscriptions/
+                behistun_inscription_001.png
+                behistun_inscription_002.png
+            /Tablets/
+                behistun_tablet_001.png
+                behistub_tablet_002.png        
+    
 
 
      
