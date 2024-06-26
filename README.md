@@ -52,4 +52,18 @@ Dear contributors, please be aware that cuneiform languages are different. For i
 
 For the each directory a "location.metadata.csv" file is provided to see the information of images. 
 
+## References
+
+British Museum collection
+
+https://www.britishmuseum.org/collection/
+
+</br>
+Cuneiform Digital Library Initiative (CDLI)
+
+https://cdli.mpiwg-berlin.mpg.de/
+
+
+
+
 
