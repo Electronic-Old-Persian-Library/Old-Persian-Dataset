@@ -25,6 +25,14 @@ Dear contributors, please be aware that cuneiform languages are different. For i
             susa_tablet_001.png
             susa_tablet_002.png
 
+    /CDLI/
+        /Inscriptions/
+            scdli_inscription_001.png
+            cdli_inscription_002.png
+        /Tablets/
+            cdli_tablet_001.png
+            scdli_tablet_002.png        
+
             
 ## Metadata for ImageDataset
 
