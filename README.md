@@ -68,4 +68,16 @@ https://cdli.mpiwg-berlin.mpg.de/
 Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
 
 
+## Glossary
+
+Insrcription:کتیبه سنگی
+
+Tablet:کتیبه گلی
+
+Behistun:بیستون
+
+Susa:شوش
+
+Persepolis:پرسپولیس(تخت جمشید)
+
 
