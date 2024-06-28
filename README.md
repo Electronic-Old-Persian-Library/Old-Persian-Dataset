@@ -45,9 +45,6 @@ Dear contributors, please be aware that cuneiform languages are different. For i
                 behistub_tablet_002.png        
     
 
-
-     
-            
 ## Metadata for ImageDataset
 
 For the each directory a "location.metadata.csv" file is provided to see the information of images. 
@@ -70,18 +67,18 @@ Personal photography from national museum of Iran and Takht-e-Jamshid (Persepoli
 
 ## Glossary
 
-Insrcription:کتیبه سنگی
+Insrcription: کتیبه سنگی
 
-Tablet:کتیبه گلی
+Tablet: کتیبه گلی
 
-Behistun:بیستون
+Behistun: بیستون
 
-Susa:شوش
+Susa: شوش
 
-Persepolis:پرسپولیس(تخت جمشید)
+Persepolis: پرسپولیس(تخت جمشید)
 
-Elamite:ایلامی
+Elamite: ایلامی
 
-Babylonian:بابِلی
+Babylonian: بابِلی
 
 
