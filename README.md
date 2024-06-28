@@ -80,4 +80,8 @@ Susa:شوش
 
 Persepolis:پرسپولیس(تخت جمشید)
 
+Elamite:ایلامی
+
+Babylonian:بابِلی
+
 
