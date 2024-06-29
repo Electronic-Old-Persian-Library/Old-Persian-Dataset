@@ -6,7 +6,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
 
 ![cuneiform types](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/edd64823-7c50-4231-9990-9ff723b1556f)
 
-
+(Photo is taken from national museum of Iran, the gold plate of king Darius)
 
 ## Data structure:
 
