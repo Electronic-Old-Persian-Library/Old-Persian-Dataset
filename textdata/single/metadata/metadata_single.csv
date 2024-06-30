@@ -1,0 +1,4 @@
+file_name,original_language,converted_language,reference,location,king,translator,image,artifact_id
+cdli_520015.txt,eng_transliteration,0,cdli,persepolis,darius,,0,520015
+cdli_darius_1_001.txt,eng_transliteration,0,cdli,behistun,darius,,1,429857
+P480793_d.txt,eng_transliteration,0,cdli,Azerbaijan Museum Tabriz,Xerxes,,1,480793

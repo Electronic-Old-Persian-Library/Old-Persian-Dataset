@@ -1,0 +1,4 @@
+file_name,original_language,converted_language,reference ,location,king,translator,image,artifact_id
+eng_transcription_to_english_001.json,eng_transcription,english,“avesta.org/op/op.htm”,hamedan,ariaramnes,,0,
+susa_darius_1_001.json,eng_transcription,english,“livius.org/sources/content/achaemenid-royal-inscriptions/dsf/”,susa,darius,,1,
+1493331001.json,eng_transcription,english,british museum,persepolis,Xerxes 1,british museum,1,
