@@ -22,9 +22,25 @@ Dear contributors, please be aware that cuneiform languages are different. For i
            /darius_1/
                behistun_darius_1_001.jpg
           
-
-
-     
+/textdata/
+            
+      
+      /eng_transcription_to_english/
+           /metadata/
+           eng_transcription_to_english_001.json
+           
+      /eng_transliteration_to_english/
+           /metadata/
+           eng_transliteration_to_english_001.json
+           
+      /single/
+          /metadata/
+          /eng_transliteration/
+                eng_transliteration_001.json
+                  
+          
+      
+           
             
 ## Metadata for ImageDataset
 
