@@ -42,31 +42,29 @@ Dear contributors, please be aware that cuneiform languages are different. For i
       
            
             
-## Metadata for ImageDataset
+## Metadata 
 
-For the each directory a "location.metadata.csv" file is provided to see the information of images. 
+For the each directory a "source.metadata.csv" file is provided to see the information of data. 
 
 ## References
 
-British Museum collection
+- British Museum collection
 
 https://www.britishmuseum.org/collection/
 
 </br>
-Cuneiform Digital Library Initiative (CDLI)
+- Cuneiform Digital Library Initiative (CDLI)
 
 https://cdli.mpiwg-berlin.mpg.de/
 
 </br>
 
-Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
+- Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
 
 
 ## Glossary
 
-Insrcription:کتیبه سنگی
 
-Tablet:کتیبه گلی
 
 Behistun:بیستون
 
@@ -77,5 +75,11 @@ Persepolis:پرسپولیس(تخت جمشید)
 Elamite:ایلامی
 
 Babylonian:بابِلی
+
+Cyrus:کوروش
+
+Xerxes:خشایار
+
+Artaxerxes:اردشیر
 
 
