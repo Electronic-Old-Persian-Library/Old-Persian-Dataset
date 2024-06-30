@@ -37,8 +37,9 @@ Dear contributors, please be aware that cuneiform languages are different. For i
           /metadata/
           /eng_transliteration/
                 eng_transliteration_001.json
+
                   
-          
+       # "single" refers to text data that are just a text without translation 
       
            
             
