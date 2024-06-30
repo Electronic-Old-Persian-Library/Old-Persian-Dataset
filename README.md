@@ -44,7 +44,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
             
 ## Metadata 
 
-For the each directory a "source.metadata.csv" file is provided to see the information of data. 
+For each directory a "source.metadata.csv" file is provided to see the information of data. 
 
 ## References
 
