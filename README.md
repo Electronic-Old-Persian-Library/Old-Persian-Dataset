@@ -1,4 +1,4 @@
-# Raw dataset for Persian old Cuneiform
+# Raw dataset for Persian Old cuneiform
 
 ## This repository is under developing...
 
