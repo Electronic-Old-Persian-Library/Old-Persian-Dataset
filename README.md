@@ -1,8 +1,8 @@
-# Raw dataset for Persian Old cuneiform
+# Raw dataset for Old Persian cuneiform
 
 ## This repository is under developing...
 
-Dear contributors, please be aware that cuneiform languages are different. For instance, the most popular are Elamite, Babylonian and Persian Old; we are working on Persian Old. Below you can see the differences:
+Dear contributors, please be aware that cuneiform languages are different. For instance, the most popular are Elamite, Babylonian and Old Persian; we are working on Old Persian. Below you can see the differences:
 
 ![cuneiform types](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/edd64823-7c50-4231-9990-9ff723b1556f)
 
@@ -41,7 +41,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
                   
        # "single" refers to text data that are just a text without translation 
       
-Ciphering Persian Old language has some methods, for example, transliteration and transcription. Below you can see an example to know the difference between them:
+Ciphering Old Persian language has some methods, for example, transliteration and transcription. Below you can see an example to know the difference between them:
 
 ![transliteration_transcription](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/a0a1692e-6740-46ac-8167-e9acb7324fec)
 
