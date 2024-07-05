@@ -4,7 +4,7 @@
 
 Dear contributors, please be aware that cuneiform languages are different. For instance, the most popular are Elamite, Babylonian and Old Persian; we are working on Old Persian. Below you can see the differences:
 
-![cuneiform types](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/edd64823-7c50-4231-9990-9ff723b1556f)
+![types of cuneiform](https://github.com/Electronic-Old-Persian-Library/Old-Persian-Dataset/assets/74653444/2e84ae6b-f3fa-40c0-aa71-a3a125c0f040)
 
 (Photo is taken from national museum of Iran, the gold plate of king Darius)
 
