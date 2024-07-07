@@ -1,7 +1,7 @@
-file_name,source,king,location,translation,collection,description,artifact_id,asset_number,museum_number,material
-cdli_darius_1_001.jpg,cdli,darius1,behistun,1,behistun,,429857,,,stone
-P505970_d.jpg,cdli,xerxes1,,0,“Yale Babylonian Collection New Haven Connecticut USA”,,505970,,YBC 02123,alabaster
-P433328_d.jpg,cdli,artaxerxes1,uncertain ,1,“Michael C Carlos Museum Emory University Atlanta Georgia USA”,,433328,,X.3.159,alabaster
-P458906_d.jpg,cdli,artaxerxes2,ecbatana ,0,british museum,,458906,,BM 090855,limestone
-P464131_d.jpg,cdli,other,pasargad,0,The Israel Museum Jerusalem,,464131,,IMJ 70.071.0580,
-P480793_d.jpg,cdli,xerxes1,,1,Azerbaijan Museum Tabriz,,480793,,AMT —,stone
+file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color
+cdli_darius_1_001.jpg,cdli,darius1,,behistun,1,behistun,,429857,,,stone,
+P505970_d.jpg,cdli,xerxes1,,,0,“Yale Babylonian Collection New Haven Connecticut USA”,,505970,,YBC 02123,alabaster,
+P433328_d.jpg,cdli,artaxerxes1,,uncertain ,1,“Michael C Carlos Museum Emory University Atlanta Georgia USA”,,433328,,X.3.159,alabaster,
+P458906_d.jpg,cdli,artaxerxes2,,ecbatana ,0,british museum,,458906,,BM 090855,limestone,
+P464131_d.jpg,cdli,other,,pasargad,0,The Israel Museum Jerusalem,,464131,,IMJ 70.071.0580,,
+P480793_d.jpg,cdli,xerxes1,,,1,Azerbaijan Museum Tabriz,,480793,,AMT —,stone,
