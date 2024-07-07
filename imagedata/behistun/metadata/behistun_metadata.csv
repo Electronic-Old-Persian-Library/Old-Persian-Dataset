@@ -1,3 +1,2 @@
-file_name,source,king,location,translation,collection,description,artifact_id,asset_number,museum_number,material
-behistun_darius_1_001.jpg,behistun,Darius 1,behistun,1,,,,,,
-
+file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color
+behistun_darius_1_001.jpg,behistun,Darius 1,,behistun,1,,,,,,,
