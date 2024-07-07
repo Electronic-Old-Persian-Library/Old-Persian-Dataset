@@ -1,9 +1,9 @@
-file_name,source,king,location,translation,collection,description,artifact_id,asset_number,museum_number,material
-persepolis_darius_1_001.jpg,persepolis,darius 1,Persepolis,0,National Museum of Iran,taken from cultural heritage book by Faesgh Tohidi,,,,
-persepolis_artaxerxes _3_002.jpg,persepolis,Artaxerxes 3,Persepolis,1,Persepolis,,,,,
-persepolis_artaxerxes _3_003.jpg,persepolis,Artaxerxes 3,Persepolis,1,Persepolis,,,,,
-20231018_113548.jpg,persepolis,darius 1,Persepolis Apadana,1,National Museum of Iran,golden inscription of Daruis king in Apada place,,,,
-20231018_113553.jpg,persepolis,darius 1,Persepolis Apadana,1,National Museum of Iran,silver inscription of Daruis king in Apada place,,,,
-20231018_114538.jpg,persepolis,Xerxes 1,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,
-20231018_114546.jpg,persepolis,Xerxes 1,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,
-20231018_114817.jpg,persepolis,Xerxes 1,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,
+file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color
+persepolis_darius_1_001.jpg,persepolis,darius 1,,Persepolis,0,National Museum of Iran,taken from cultural heritage book by Faesgh Tohidi,,,,,
+persepolis_artaxerxes _3_002.jpg,persepolis,Artaxerxes 3,,Persepolis,1,Persepolis,,,,,,
+persepolis_artaxerxes _3_003.jpg,persepolis,Artaxerxes 3,,Persepolis,1,Persepolis,,,,,,
+20231018_113548.jpg,persepolis,darius 1,,Persepolis Apadana,1,National Museum of Iran,golden inscription of Daruis king in Apada place,,,,,
+20231018_113553.jpg,persepolis,darius 1,,Persepolis Apadana,1,National Museum of Iran,silver inscription of Daruis king in Apada place,,,,,
+20231018_114538.jpg,persepolis,Xerxes 1,,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,,
+20231018_114546.jpg,persepolis,Xerxes 1,,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,,
+20231018_114817.jpg,persepolis,Xerxes 1,,Persepolis,1,National Museum of Iran,Xerxes king inscription from Persepolis,,,,,
