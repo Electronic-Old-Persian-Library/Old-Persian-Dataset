@@ -1,2 +1,2 @@
-file_name,original_language,converted_language,reference,location,king,translator,image,artifact_id
-P433328_d.json,eng_translitaration,english,cdli,Michael C Carlos Museum,artaxerxes1,,1,433328
+file_name,original_language,converted_language,abbreviation,reference,location,king,translator,image,artifact_id
+P433328_d.json,eng_translitaration,english,,cdli,Michael C Carlos Museum,artaxerxes1,,1,433328
