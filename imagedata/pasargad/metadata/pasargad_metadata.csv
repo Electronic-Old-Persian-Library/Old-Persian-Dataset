@@ -1,5 +1,5 @@
-file_name,source,king,location,translation,collection,description,artifact_id,asset_number,museum_number,material
-pasargad_cyrus_2_001.jpg,pasargad,cyrus 2,pasargad,1,,,,,,
-pasargad_cyrus_2_002.JPG,pasargad,cyrus 2,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,
-pasargad_cyrus_2_003.jpg,pasargad,cyrus 2,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,
-pasargad_cyrus_2_004.jpeg,pasargad,cyrus 2,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,
+file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color
+pasargad_cyrus_2_001.jpg,pasargad,cyrus 2,,pasargad,1,,,,,,,
+pasargad_cyrus_2_002.JPG,pasargad,cyrus 2,,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,,
+pasargad_cyrus_2_003.jpg,pasargad,cyrus 2,,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,,
+pasargad_cyrus_2_004.jpeg,pasargad,cyrus 2,,pasargad,1,,same with pasargad_cyrus_2_001.jpg,,,,,
