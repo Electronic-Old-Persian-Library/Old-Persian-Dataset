@@ -52,25 +52,22 @@ For each directory a "source.metadata.csv" file is provided to see the informati
 
 ## References
 
-- Livius.org
+- [Livius.org](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
 
-https://www.livius.org/sources/content/achaemenid-royal-inscriptions/
 
-- British Museum collection
+- [British Museum collection](https://www.britishmuseum.org/collection/)
 
-https://www.britishmuseum.org/collection/
 
-- Wikipedia
+- [Wikipedia](https://en.wikipedia.org/wiki/Achaemenid_royal_inscriptions)
   
-https://en.wikipedia.org/wiki/Achaemenid_royal_inscriptions
 
-</br>
+- [Cuneiform Digital Library Initiative (CDLI)](https://cdli.mpiwg-berlin.mpg.de/)
 
-- Cuneiform Digital Library Initiative (CDLI)
 
-https://cdli.mpiwg-berlin.mpg.de/
 
-</br>
+- Book: The Inscriptions in Old Persian Cuneiform of the Achaemenian Emperors by
+Ralph Norman Sharp
+
 
 - Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
 
