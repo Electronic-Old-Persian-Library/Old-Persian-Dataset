@@ -52,9 +52,17 @@ For each directory a "source.metadata.csv" file is provided to see the informati
 
 ## References
 
+- Livius.org
+
+https://www.livius.org/sources/content/achaemenid-royal-inscriptions/
+
 - British Museum collection
 
 https://www.britishmuseum.org/collection/
+
+- Wikipedia
+  
+https://en.wikipedia.org/wiki/Achaemenid_royal_inscriptions
 
 </br>
 
