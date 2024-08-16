@@ -41,7 +41,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
                   
        # "single" refers to text data that are just a text without translation 
       
-Ciphering Old Persian language has some methods, for example, transliteration and transcription. Below you can see an example to know the difference between them:
+Translating Old Persian language has some methods, for example, transliteration and transcription. Below you can see an example to know the difference between them:
 
 ![transliteration_transcription](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/a0a1692e-6740-46ac-8167-e9acb7324fec)
 
