@@ -72,6 +72,14 @@ Ralph Norman Sharp](https://drive.google.com/file/d/1iqo0i3cyfN_DNho3xIwp1S4BAvd
 - Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
 
 
+## Data pipeline
+
+In the first stage, Old Persian cuneiform will be converted to English transcription text as an output using an OCR model. In the second stage, that English transcription text will be the input for an NLP or Large language model (LLM) model to be converted to modern languages. The NLP model performs as a machine translation model 
+
+
+
+![data pipeline (copy)](https://github.com/user-attachments/assets/0e115115-9eaa-41a3-a4ae-d22956ac5d58)
+
 ## Glossary
 
 
