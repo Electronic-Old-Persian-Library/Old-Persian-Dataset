@@ -74,7 +74,7 @@ Ralph Norman Sharp](https://drive.google.com/file/d/1iqo0i3cyfN_DNho3xIwp1S4BAvd
 
 ## Data pipeline
 
-In the first stage, Old Persian cuneiform will be converted to English transcription text as an output using an OCR model. In the second stage, that English transcription text will be the input for an NLP or Large language model (LLM) model to be converted to modern languages. The NLP model performs as a machine translation model 
+In the first stage, Old Persian cuneiform will be converted to English transcription text as an output using an [OCR model](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR). In the second stage, that English transcription text will be the input for an NLP or Large language model (LLM) model to be converted to modern languages. The NLP model performs as a machine translation model 
 
 
 
