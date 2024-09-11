@@ -6,3 +6,10 @@ class ArticlePhotoItem(Item):
     number = Field()
     url = Field()
     file = Field()
+
+
+class LinkedPhotoItem(Item):
+    name = Field()
+    number = Field()
+    url = Field()
+    file = Field()
