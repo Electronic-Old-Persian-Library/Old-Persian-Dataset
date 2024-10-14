@@ -50,6 +50,27 @@ Translating Old Persian language has some methods, for example, transliteration 
 
 For each directory a "source.metadata.csv" file is provided to see the information of data. 
 
+Explanation about metadata columns:
+
+imagedata:
+source: The source that I have taken data from.
+abbreviation: The name of inscription 
+location: the main discovered location of that inscription 
+translation: 1: if I have the translation of that inscription, 0: if I have not.
+collection: the palace of storing that inscription at this current time
+artifact_id : artifact_id from CDLI reference 
+asset_number: asset_number from british museum collection
+museum_number: museum_number from british museum collection
+
+
+
+textdata:
+abbreviation: The name of inscription 
+reference: The reference that I have taken data from.
+location: the main discovered location of that inscription 
+image: 1: if I have the image of that inscription, 0: if I have not.
+artifact_id : artifact_id from CDLI reference 
+
 ## References
 
 - [Livius.org](https://www.livius.org/sources/content/achaemenid-royal-inscriptions/)
