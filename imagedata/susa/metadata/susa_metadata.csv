@@ -1,5 +1,4 @@
-file_name,source,king,abbreviation,location,translation,collection,desciptoin,artifact_id,asset_number,museum_number,material,color
-susa_darius_1_001.jpg,susa,darius 1,,Susa Apadana,1,Louvre Paris,Susa Apadana Inscription DSf (Old Persian),,,,,
-susa_darius_1_002.jpg,susa,darius 1,,Susa Apadana,1,Louvre Paris,same with susa_inscription_001,,,,,
-susa_darius_1_003.jpg,susa,darius 1,,Susa Apadana,1,Louvre Paris,same with susa_inscription_001,,,,,
-susa_darius_1_004.jpg,susa,darius 1,,Susa,1,National Museum of Iran,Statue of Darius king,,,,,
+file_name,source,king,abbreviation,location,translation,collection,desciptoin,artifact_id,asset_number,museum_number,material,color,languages
+susa_darius_1_001.jpg,susa,darius 1,Dsf,Susa Apadana,1,Louvre Paris,Susa Apadana Inscription DSf (Old Persian),,,,,,Old Persian Babylonian Elamite
+susa_darius_1_002.jpg,susa,darius 1,Dsf,Susa Apadana,1,Louvre Paris,same with susa_inscription_001,,,,,,
+susa_darius_1_003.jpg,susa,darius 1,Dsf,Susa Apadana,1,Louvre Paris,same with susa_inscription_001,,,,,,

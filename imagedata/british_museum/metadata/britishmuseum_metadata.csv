@@ -1,8 +1,8 @@
-file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color
-1493331001.jpg,british museum,xerxes 1,,persepolis,1,british museum,“Fragment of limestone relief containing four and a half lines of Old Persian cuneiform”,,1493331001,118840,limestone,
-1163564001.jpg,british museum,xerxes 1,,persepolis,1,british museum,,,1493331001,118840,limestone,
-1613747995.jpg,british museum,artaxerxes 3,,persepolis,1,british museum,,,1613747995,C.46,plaster,
-184143001.jpg,british museum,artaxerxes 3,,persepolis,1,british museum,,,184143001,91236,plaster,
-184144001.jpg,british museum,artaxerxes 3,,persepolis,1,british museum,,,184143001,91236,plaster,
-20730001.jpg,british museum,Darius 1,,susa,0,british museum,Fragmentary clay tablet in Old Persian cuneiform,,20730001,82548,clay,
-1007108001.jpg,british museum,Darius 1,,susa,0,british museum,Fragmentary clay tablet in Old Persian cuneiform same as 20730001.jpg,,1007108001,82548,clay,
+file_name,source,king,abbreviation,location,translation,collection,description,artifact_id,asset_number,museum_number,material,color,languages
+1493331001.jpg,british museum,xerxes 1,Xpb,persepolis,1,british museum,“Fragment of limestone relief containing four and a half lines of Old Persian cuneiform”,,1493331001,118840,limestone,,
+1163564001.jpg,british museum,xerxes 1,Xpb,persepolis,1,british museum,,,1493331001,118840,limestone,,
+1613747995.jpg,british museum,artaxerxes 3,A3pa,persepolis,1,british museum,,,1613747995,C.46,plaster,,
+184143001.jpg,british museum,artaxerxes 3,A3pa,persepolis,1,british museum,,,184143001,91236,plaster,,
+184144001.jpg,british museum,artaxerxes 3,A3pa,persepolis,1,british museum,,,184143001,91236,plaster,,
+20730001.jpg,british museum,Darius 1,Dse,susa,1,british museum,Fragmentary clay tablet in Old Persian cuneiform,,20730001,82548,clay,,
+1007108001.jpg,british museum,Darius 1,Dse,susa,1,british museum,Fragmentary clay tablet in Old Persian cuneiform same as 20730001.jpg,,1007108001,82548,clay,,
