@@ -57,7 +57,8 @@ imagedata:
 source: The source that I have taken data from.
 
 abbreviation: The name of inscription 
-location: the main discovered location of that inscription.
+
+location: The main discovered location of that inscription.
 
 translation: 1: if I have the translation of that inscription, 0: if I have not.
 
