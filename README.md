@@ -52,7 +52,7 @@ For each directory a "source.metadata.csv" file is provided to see the informati
 
 Explanation about metadata columns:
 
-imagedata:
+``` imagedata: ```
 
 source: The source that I have taken data from.
 
@@ -71,7 +71,7 @@ museum_number: museum_number from british museum collection
 
 
 
-textdata:
+``` textdata: ````
 
 abbreviation: The name of inscription 
 
