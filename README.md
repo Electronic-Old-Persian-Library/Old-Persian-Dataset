@@ -1,6 +1,5 @@
 # Raw dataset for Old Persian cuneiform
 
-## This repository is under developing...
 
 Dear contributors, please be aware that cuneiform languages are different. For instance, the most popular are Elamite, Babylonian and Old Persian; we are working on Old Persian. Below you can see the differences:
 
