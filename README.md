@@ -62,7 +62,7 @@ location: The main discovered location of that inscription.
 
 translation: 1: if I have the translation of that inscription, 0: if I have not.
 
-collection: the palace of storing that inscription at this current time.
+collection: The palace of storing that inscription at this current time.
 
 artifact_id : artifact_id from CDLI reference 
 
@@ -78,7 +78,7 @@ abbreviation: The name of inscription
 
 reference: The reference that I have taken data from.
 
-location: the main discovered location of that inscription 
+location: The main discovered location of that inscription 
 
 image: 1: if I have the image of that inscription, 0: if I have not.
 
