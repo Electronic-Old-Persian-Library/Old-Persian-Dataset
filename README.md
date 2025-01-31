@@ -5,7 +5,7 @@ Dear contributors, please be aware that cuneiform are different. For instance, t
 
 ![types of cuneiform](https://github.com/Electronic-Old-Persian-Library/Old-Persian-Dataset/assets/74653444/2e84ae6b-f3fa-40c0-aa71-a3a125c0f040)
 
-(Photo is taken from national museum of Iran, the gold plate of king Darius)
+(Photo is taken from national museum of Iran, the gold plate of king Darius, DPh)
 
 ## Data structure:
 
