@@ -40,9 +40,7 @@ Dear contributors, please be aware that cuneiform languages are different. For i
                   
        # "single" refers to text data that are just a text without translation 
       
-Translating Old Persian language has some methods, for example, transliteration and transcription. Below you can see an example to know the difference between them:
 
-![transliteration_transcription](https://github.com/Electronic-Persian-Old-Library/Persian-Old-Dataset/assets/74653444/a0a1692e-6740-46ac-8167-e9acb7324fec)
 
             
 ## Metadata 
@@ -105,13 +103,7 @@ Ralph Norman Sharp](https://drive.google.com/file/d/1iqo0i3cyfN_DNho3xIwp1S4BAvd
 - Personal photography from national museum of Iran and Takht-e-Jamshid (Persepolis)
 
 
-## Data pipeline
 
-In the first stage, Old Persian cuneiform will be converted to English transcription text as an output using an [OCR model](https://github.com/Melanee-Melanee/Old-Persian-Cuneiform-OCR). In the second stage, that English transcription text will be the input for an NLP or Large language model (LLM) model to be converted to modern languages. The NLP model performs as a machine translation model 
-
-
-
-![data pipeline (copy)](https://github.com/user-attachments/assets/0e115115-9eaa-41a3-a4ae-d22956ac5d58)
 
 ## Glossary
 
